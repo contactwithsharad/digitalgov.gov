@@ -110,3 +110,4 @@ This [public listserv](https://groups.google.com/forum/?fromgroups#!forum/us-gov
   * [Using Mashups to Create More Efficient .Gov](http://blog.programmableweb.com/2009/05/14/using-mashups-to-create-a-more-efficient-government/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+ProgrammableWeb+(ProgrammableWeb:+Blog)&utm_content=Google+Reader)—ProgrammableWeb
   * [The Business Value of APIs](http://www.pwc.com/us/en/technology-forecast/2012/issue2/download.jhtml)—PricewaterhouseCoopers
   * [Government—Do You Really Need An API?](http://sunlightfoundation.com/blog/2012/03/21/government-do-you-really-need-an-api/)—Sunlight Foundation
+* [API Strategy and Business Models](https://www.tivix.com/blog/api-strategy-and-business-models)
